@@ -1,0 +1,1 @@
+Original Data is placed in ETL Folder.
